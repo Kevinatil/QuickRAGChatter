@@ -1,0 +1,7 @@
+openai
+requests
+readability-lxml
+html2text
+sentence-transformers
+langchain
+langchain-community
